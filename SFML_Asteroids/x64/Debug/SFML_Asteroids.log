@@ -1,0 +1,2 @@
+﻿  SFML_Asteroids.cpp
+c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
