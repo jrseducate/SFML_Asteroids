@@ -1,7 +1,4 @@
 ﻿  SFML_Asteroids.cpp
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(691): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(763): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(872): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   SFML_Asteroids.vcxproj -> C:\Users\Jeremy\source\repos\SFML_Asteroids\Debug\SFML_Asteroids.exe
