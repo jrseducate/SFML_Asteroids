@@ -1,10 +1,2 @@
 ﻿  SFML_Asteroids.cpp
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(662): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(673): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(779): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(791): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(819): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(944): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(1014): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeremy\source\repos\sfml_asteroids\sfml_asteroids\sfml_asteroids.cpp(1035): warning C4018: '<': signed/unsigned mismatch
   SFML_Asteroids.vcxproj -> C:\Users\Jeremy\source\repos\SFML_Asteroids\Debug\SFML_Asteroids.exe
