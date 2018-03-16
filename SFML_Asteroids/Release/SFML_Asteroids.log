@@ -1,8 +1,8 @@
 ﻿  SFML_Asteroids.cpp
-SFML_Asteroids.cpp(835): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+SFML_Asteroids.cpp(846): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   Generating code
-  1 of 295 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+  4 of 293 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   SFML_Asteroids.vcxproj -> C:\Users\Jeremy\source\repos\SFML_Asteroids\Release\SFML_Asteroids.exe
