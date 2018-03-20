@@ -1,5 +1,7 @@
 ﻿  SFML_Asteroids.cpp
   Generating code
-  All 297 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  6 of 297 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   SFML_Asteroids.vcxproj -> C:\Users\Jeremy\source\repos\SFML_Asteroids\Release\SFML_Asteroids.exe
